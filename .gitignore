@@ -1,2 +1,24 @@
 *.class
 *.log
+
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+
+out/
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# temp ignore
+*.cache
+*.diff
+*.patch
+*.tmp
